@@ -1,5 +1,6 @@
 {
     "domain": "go.wager.systems",
+    "index": true,
     "repositories": [
         {
             "prefix": "wager",
