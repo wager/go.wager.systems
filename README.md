@@ -1,3 +1,7 @@
+<p align="center">
+  A Go vanity import path server.
+</p>
+
 # Structure
 
 ```bash
@@ -8,18 +12,19 @@ go.wager.systems/
 
 # Features
 
-Site is generated [Vangen][1].
+Site is generated [Vangen].
 
 ```bash
-go get 4d63.com/vangen
-vangen
+go get 4d63.com/vangen && vangen
 ```
 
-Site is hosted by [GitHub Pages][2].
+Site is hosted by [GitHub Pages].
 
 ```bash
 curl -L go.wager.systems/wager?go-get=1
 ```
 
-[1]: https://github.com/leighmcculloch/vangen
-[2]: https//go.wager.systems
+[GitHub Pages]: 
+  https://go.wager.systems
+[Vangen]: 
+  https://github.com/leighmcculloch/vangen
