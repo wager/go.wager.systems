@@ -18,7 +18,7 @@ vangen
 Site is hosted by [GitHub Pages][2].
 
 ```bash
-curl go.wager.systems/wager?go-get=1
+curl -L go.wager.systems/wager?go-get=1
 ```
 
 [1]: https://github.com/leighmcculloch/vangen
