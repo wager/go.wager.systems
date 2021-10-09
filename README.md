@@ -2,6 +2,21 @@
   A Go vanity import path server.
 </p>
 
+<p align="center">
+  <a href="https://github.com/wager/go.wager.systems/actions/workflows/cd.yml">
+    <img
+      src="https://github.com/wager/wager/workflows/cd/badge.svg?branch=main"
+      alt="Continuous Delivery"
+    />
+  </a>
+  <a href="https://go.wager.systems">
+    <img
+      src="https://img.shields.io/badge/go get-go.wager.systems-informational"
+      alt="go.wager.systems"
+    />
+  </a>
+</p>
+
 # Structure
 
 ```bash
