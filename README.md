@@ -17,15 +17,11 @@
   </a>
 </p>
 
-# Structure
-
 ```bash
 go.wager.systems/
-├── .github/                        Continuous integration and delivery workflows.
-└── vangen.json                     Vangen configuration.
+├── .github/    # Continuous integration and delivery workflows.
+└── vangen.json # Vangen configuration.
 ```
-
-# Features
 
 Site is generated [Vangen].
 
