@@ -19,8 +19,8 @@
 
 ```bash
 go.wager.systems/
-├── .github/    # Continuous integration and delivery workflows.
-└── vangen.json # Vangen configuration.
+├── .github/     # Continuous integration and delivery workflows.
+└── vangen.json  # Vangen configuration.
 ```
 
 Site is generated [Vangen].
