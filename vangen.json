@@ -4,7 +4,7 @@
     "repositories": [
         {
             "prefix": "wager",
-            "url": "https://github.com/wager/wager/wager"
+            "url": "https://github.com/wager/wager"
         }
     ]
 }
