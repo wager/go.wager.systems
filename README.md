@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/wager/go.wager.systems/actions/workflows/cd.yaml">
     <img
-      src="https://github.com/wager/wager/workflows/cd/badge.svg?branch=main"
+      src="https://github.com/wager/go.wager.systems/workflows/cd/badge.svg?branch=main"
       alt="Continuous Delivery"
     />
   </a>
